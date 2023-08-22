@@ -1,6 +1,7 @@
 # JavaStudy
 ###### 学习记录
 [使用的Markdown:] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[好的学习资源:] (https://tobebetterjavaer.com/array/array.html)
 ```java
 public class QuNiMaDe {
     public static void main(String[] args) {
